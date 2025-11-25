@@ -190,14 +190,13 @@
 |Library|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)|
 |Collaboration Tool|![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
-- 랭그래프 선정 이유
+- 랭그래프 선정 이유<br>
 (1) 자율적인 의사 결정 및 반복 실행이 필요한 복잡한 에이전트 파이프라인 모듈화 및 신속한 개발을 위해 채택
 
-- 파인콘 선정 이유
-Pinecone DB
-(1) 인프라 관리 없이 빠르게 시작 가능, 실시간 처리, 단순한 API
-(2) 클라우드 기반 추천 서비스에 강력하므로 우리 서비스에 적합
-(3) Free Tier: 최대 5개의 인덱스 생성 가능 -> 우리 서비스는 2개 필요하므로 유료 x
+- 파인콘 선정 이유<br>
+(1) 인프라 관리 없이 빠르게 시작 가능, 실시간 처리, 단순한 API<br>
+(2) 클라우드 기반 추천 서비스에 강력하므로 우리 서비스에 적합<br>
+(3) Free Tier: 최대 5개의 인덱스 생성 가능 → 우리 서비스는 2개 필요하므로 유료 x
 
 <br>
 
@@ -489,3 +488,4 @@ AI   : {
 - **`안수이`**
 - **`이상민`**
 - **`정종현`**
+
