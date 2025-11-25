@@ -313,18 +313,23 @@ def clean_text(text):
 
 **최종 데이터셋**
 1. 식물 추천 데이터셋
+
 <div align="left"> 
 <img src="https://github.com/user-attachments/assets/d5b1cbd6-c1ca-4558-a9b8-62f15bfe243f" width="80%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
 <br style="clear: both;" /> 
 </div>
+
 <br>
+
 2. 식물 상담 데이터셋
+
 <div align="left"> 
 <img src="https://github.com/user-attachments/assets/c748e731-05ad-4ae2-8d89-be695e7c9549" width="80%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
 <br style="clear: both;" /> 
+  
 <br><br>
 
-## 성능 테스트 계획 및 결과
+## [성능 테스트 계획 및 결과](https://docs.google.com/spreadsheets/d/13b3qwXVqY04CR4WB1-dZEttGEs4U-OtSjZUon8fjFeM/edit?usp=sharing)
 <i>두가지 평가 계획을 정의하였습니다.<br>이는 사용자 답변 품질을 높이고자하는 공통의 목표를 가지고 있습니다.</i>
 
 1️⃣ RAG 성능 평가를 통해 응답 최적화<br>2️⃣ llm 응답 결과를 통해 예외 처리
@@ -566,7 +571,7 @@ AI   : {
 
 ## 한줄회고
 - **`김소희`**
-> I don't know because my head is white
+> 🪴
 - **`박준영`**
 > 협업 절차를 통해 데이터를 처리하고, 해당 데이터를 LLM에 전달하여 RAG를 수행하고 응답을 받는 일련의 과정을 기획하고 langgraph를 구현하며 langchain과 langgraph의 구조와 작동 방식에 대해 이해할 수 있었다.
 - **`안수이`**
@@ -576,6 +581,7 @@ RAG 테스트를 진행하면서 평가 기준을 설정하고 그 기준을 바
 > 사용자 정보 수집 llm과 RAG 및 QnA의 예상 응답과 실제 응답을 분석하며 프롬프트를 수정하는 일을 담당했습니다. 수업 때 배웠던 것보다 복잡해서 어려움도 많았지만 팀원들에게 도움을 받아 잘 진행되었던 것 같습니다. 이어지는 4차 프로젝트에서는 TTS 관련해서 도전해보고 싶다는 생각이 들었습니다.
 - **`정종현`**
 > 이번 프로젝트는 실제 서비스 연동 되기 위해 더 많은 시스템연계가 필요했습니다. 아직 끝난것은 아니지만, 다양한 많은 시스템의 연계를 해 보고, 최종에 해당 내용을 추가해 보겠습니다.
+
 
 
 
